@@ -1,3 +1,5 @@
+package src.programmers;
+
 public class SumOfIndexOfNumbers extends Solution {
     public static void main(String[] args) {
 

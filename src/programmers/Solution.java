@@ -1,3 +1,5 @@
+package src.programmers;
+
 public class Solution {
 
     public static void subTestPassed(int num) {

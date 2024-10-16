@@ -1,3 +1,6 @@
+package src.programmers;
+// https://school.programmers.co.kr/learn/courses/30/lessons/12928
+
 public class SumOfFactors extends Solution {
     public static void main(String[] args) {
 

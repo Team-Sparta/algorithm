@@ -1,3 +1,4 @@
+package src.programmers;
 // https://school.programmers.co.kr/learn/courses/30/lessons/12937
 
 public class EvenOrOdd {

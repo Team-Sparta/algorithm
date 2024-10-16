@@ -1,4 +1,4 @@
-// https://school.programmers.co.kr/learn/courses/30/lessons/120803
+package src.programmers;// https://school.programmers.co.kr/learn/courses/30/lessons/120803
 
 public class SubtractTwoNumbers {
 
