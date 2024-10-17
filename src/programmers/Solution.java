@@ -7,8 +7,8 @@ public class Solution {
     }
 
     public static <T> void subTest(int num, T answer, T expected) {
-        assert answer == expected : "\nTest" + num + " failed" + "\nYour Answer: " + answer + "\nExpected: " + expected;
-        subTestPassed(1);
+        assert expected.equals(answer) : "\nTest" + num + " failed" + "\nYour Answer: " + answer + "\nExpected: " + expected;
+        subTestPassed(num);
     }
 
     public static void accepted() {
